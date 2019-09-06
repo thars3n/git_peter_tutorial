@@ -14,3 +14,6 @@ Jim edits...
 - git log --oneline
 - git push: Update remote repository (e.g., on GitHub).
 - git remote -v: see what are the current remotes.
+- git peter 
+
+- git jim
