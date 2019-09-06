@@ -16,3 +16,5 @@ My notes from the Intro to Git tutorial in Sep 2019.
 - git diff: Review changes to files.
 - git diff --stat: Get overview of changes.
 - git diff <file>: Review changes to one file.
+- git peter: does not work.
+- git jim: this does not work either.
