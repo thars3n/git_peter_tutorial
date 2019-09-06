@@ -10,5 +10,5 @@ My notes from  the Intro to Git tutorial in Sep 2019.
 - git status: Get overview of git repository.
 - git log: show all commits
 - git log --oneline
-- git push: update remote repository
+- git push: Update remote repository.
 - git remote -v: see what are the current remotes.
