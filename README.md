@@ -4,6 +4,9 @@ My notes from  the Intro to Git tutorial in Sep 2019.
 ## My favourite git commands
 
 - git clone: Create copy of remote repository.
-- git commit:
+- git add: Indicate which files to commit.
+- git commit: Create snapshot of files.
+- git status: Get overview of git repository.
+- git log: show all commits
 
 
