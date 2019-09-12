@@ -4,6 +4,8 @@ My notes from the Intro to Git tutorial in Sep 2019.
 
 ## Most useful git commands
 
+### subcategory: Useful commands
+
 - git clone: Create copy of remote repository.
 - git add: Indicate which files to commit.
 - git commit: Create snapshot of files.
